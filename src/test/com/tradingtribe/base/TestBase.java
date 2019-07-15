@@ -1,4 +1,4 @@
-package base;
+package test.com.tradingtribe.base;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;

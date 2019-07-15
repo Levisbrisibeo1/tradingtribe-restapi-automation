@@ -35,7 +35,7 @@ See Rest-Assured at : https://code.google.com/p/rest-assured/
 `src/test/resources/config.properties` is a simple properties file to store various configurations
 
 ### Tests
-`src/main/java/base.TestBase.class` is the tests superclass for configuration and common code
+`src/main/java/TestBase.class` is the tests superclass for configuration and common code
 `src/test/java/` holds test classes (TestNG) 
 
 

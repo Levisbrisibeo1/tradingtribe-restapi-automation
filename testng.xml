@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Command line suite" verbose="0">
-    <test name="Command line test" preserve-order="false">
+<suite name="Trading Rest Api tests" verbose="0">
+    <test name="Trading Rest Api tests" preserve-order="false">
         <classes>
-            <class name="SkyBetTradingEngineTests"/>
+            <class name="test.com.tradingtribe.apitests.SkyBetTradingEngineTests"/>
         </classes>
     </test>
 </suite>
