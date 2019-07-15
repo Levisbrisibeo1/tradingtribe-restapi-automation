@@ -1,0 +1,74 @@
+{
+  "fixtureId":"<FIXTUREID>",
+  "fixtureStatus": {
+    "displayed": false,
+    "suspended": true
+  },
+  "footballFullState": {
+    "homeTeam": "chelsea",
+    "awayTeam": "manchester-united",
+    "finished": false,
+    "gameTimeInSeconds": 2656,
+    "goals": [
+      {
+        "clockTime": 640,
+        "confirmed": true,
+        "id": 678626,
+        "ownGoal": false,
+        "penalty": false,
+        "period": "FIRST_HALF",
+        "playerId": 511618,
+        "teamId": "1"
+      },
+      {
+        "clockTime": 874,
+        "confirmed": true,
+        "id": 124002,
+        "ownGoal": false,
+        "penalty": false,
+        "period": "FIRST_HALF",
+        "playerId": 60817,
+        "teamId": "2"
+      },
+      {
+        "clockTime": 1322,
+        "confirmed": true,
+        "id": 567245,
+        "ownGoal": false,
+        "penalty": false,
+        "period": "FIRST_HALF",
+        "playerId": 131629,
+        "teamId": "1"
+      },
+      {
+        "clockTime": 1790,
+        "confirmed": true,
+        "id": 758030,
+        "ownGoal": false,
+        "penalty": false,
+        "period": "FIRST_HALF",
+        "playerId": 131240,
+        "teamId": "2"
+      }
+    ],
+    "period": "SECOND_HALF",
+    "possibles": [],
+    "corners": [],
+    "redCards": [],
+    "yellowCards": [],
+    "startDateTime": "2018-03-20T10:49:38.655Z",
+    "started": true,
+    "teams": [
+      {
+        "association": "HOME",
+        "name": "chelsea",
+        "teamId": "HOME"
+      },
+      {
+        "association": "AWAY",
+        "name": "manchester-united",
+        "teamId": "AWAY"
+      }
+    ]
+  }
+}
