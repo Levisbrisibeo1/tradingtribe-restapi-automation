@@ -13,10 +13,10 @@ It runs by default on `http://localhost:3000`
 ## API
 
 ## Endpoints
-######findFixtureById
-######fixtureIdDelete
-######getFixtures
-######storeNewFixture
+1.findFixtureById
+2.fixtureIdDelete
+3.getFixtures
+4.storeNewFixture
 
 ## Framework
 
